@@ -3,7 +3,6 @@ I'm Sakir Mansuri, a **Data Enthusiast** with a Master's degree in Applied Mathe
 
 🔹 **Automating data workflows** | 🔹 **Transforming raw data into insights**  
 
----
 
 ### 🛠️ Tech Stack 
 ![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
@@ -12,18 +11,10 @@ I'm Sakir Mansuri, a **Data Enthusiast** with a Master's degree in Applied Mathe
 ![PowerBI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 
 
----
-
 ### 🌟 Featured Projects  
 [![Repo 1](https://img.shields.io/badge/🔍_Data_Pipeline-000?style=flat-square)](https://github.com/sakirmansuri/TextileMaterialAndCostAnalyser_App)  
 [![Repo 2](https://img.shields.io/badge/📊_Automated_Reports-000?style=flat-square)](https://github.com/sakirmansuri/streamlit_learning_app)  
 
----
-
-### 📊 GitHub Stats (Optional)  
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=sakirmansuri&show_icons=true&theme=radical)  
-
----
 
 ### 📫 Reach Me  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/sakirmansuri)
