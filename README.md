@@ -12,8 +12,8 @@ I'm Sakir Mansuri, a **Data Enthusiast** with a Master's degree in Applied Mathe
 
 
 ### 🌟 Featured Projects  
-[![Repo 1](https://img.shields.io/badge/🔍_Data_Pipeline-000?style=flat-square)](https://github.com/sakirmansuri/TextileMaterialAndCostAnalyser_App)  
-[![Repo 2](https://img.shields.io/badge/📊_Automated_Reports-000?style=flat-square)](https://github.com/sakirmansuri/streamlit_learning_app)  
+[![Repo 1](https://img.shields.io/badge/streamlit_learning_app-000?style=flat-square)](https://github.com/sakirmansuri/TextileMaterialAndCostAnalyser_App)  
+[![Repo 2](https://img.shields.io/badge/TextileMaterialAndCostAnalyser_App-000?style=flat-square)](https://github.com/sakirmansuri/streamlit_learning_app)  
 
 
 ### 📫 Reach Me  
