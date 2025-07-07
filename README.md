@@ -23,7 +23,96 @@ I'm Sakir Mansuri, a **Data Enthusiast** with a Master's degree in Applied Mathe
 *"From Theory to Data-Driven Reality"*  
 📜 My Certificate
 
-![Certificate](certificates/c1.jpg)
+### 📜 Certificates
+
+<div align="center">
+
+<!-- Row 1 -->
+<a href="certificates/cwb_forage_cert.jpg" target="_blank">
+  <img src="certificates/cwb_forage_cert.jpg" width="200" alt="CWB Forage Certificate"/>
+</a>
+<a href="certificates/delloite_forage_cert.jpg" target="_blank">
+  <img src="certificates/delloite_forage_cert.jpg" width="200" alt="Deloitte Forage Certificate"/>
+</a>
+<a href="certificates/dissertation_cert1_page1.jpg" target="_blank">
+  <img src="certificates/dissertation_cert1_page1.jpg" width="200" alt="Dissertation Certificate 1"/>
+</a>
+<a href="certificates/dissertation_cert2_page1.jpg" target="_blank">
+  <img src="certificates/dissertation_cert2_page1.jpg" width="200" alt="Dissertation Certificate 2"/>
+</a>
+
+<br/>
+
+<!-- Row 2 -->
+<a href="certificates/excel1_udemy_cert.jpg" target="_blank">
+  <img src="certificates/excel1_udemy_cert.jpg" width="200" alt="Excel 1 Certificate"/>
+</a>
+<a href="certificates/excel2_udemy_cert.jpg" target="_blank">
+  <img src="certificates/excel2_udemy_cert.jpg" width="200" alt="Excel 2 Certificate"/>
+</a>
+<a href="certificates/excel3_udemy_cert.jpg" target="_blank">
+  <img src="certificates/excel3_udemy_cert.jpg" width="200" alt="Excel 3 Certificate"/>
+</a>
+<a href="certificates/finishing_school_cert_page1.jpg" target="_blank">
+  <img src="certificates/finishing_school_cert_page1.jpg" width="200" alt="Finishing School Certificate"/>
+</a>
+
+<br/>
+
+<!-- Row 3 -->
+<a href="certificates/jot_cert_page1.jpg" target="_blank">
+  <img src="certificates/jot_cert_page1.jpg" width="200" alt="JOT Certificate"/>
+</a>
+<a href="certificates/mysql_udemy_cert.jpg" target="_blank">
+  <img src="certificates/mysql_udemy_cert.jpg" width="200" alt="MySQL Certificate"/>
+</a>
+<a href="certificates/powerpoint_udemy_cert.jpg" target="_blank">
+  <img src="certificates/powerpoint_udemy_cert.jpg" width="200" alt="PowerPoint Certificate"/>
+</a>
+<a href="certificates/python1_gfg_cert.jpg" target="_blank">
+  <img src="certificates/python1_gfg_cert.jpg" width="200" alt="Python GFG 1 Certificate"/>
+</a>
+
+<br/>
+
+<!-- Row 4 -->
+<a href="certificates/python2_gfg_cert.jpg" target="_blank">
+  <img src="certificates/python2_gfg_cert.jpg" width="200" alt="Python GFG 2 Certificate"/>
+</a>
+<a href="certificates/quantinm_forage_cert.jpg" target="_blank">
+  <img src="certificates/quantinm_forage_cert.jpg" width="200" alt="Quantium Forage Certificate"/>
+</a>
+<a href="certificates/science_camp1_cert_page1.jpg" target="_blank">
+  <img src="certificates/science_camp1_cert_page1.jpg" width="200" alt="Science Camp 1 Certificate"/>
+</a>
+<a href="certificates/science_camp2_cert_page1.jpg" target="_blank">
+  <img src="certificates/science_camp2_cert_page1.jpg" width="200" alt="Science Camp 2 Certificate"/>
+</a>
+
+<br/>
+
+<!-- Row 5 -->
+<a href="certificates/softskills_gfg_cert.jpg" target="_blank">
+  <img src="certificates/softskills_gfg_cert.jpg" width="200" alt="Soft Skills GFG Certificate"/>
+</a>
+<a href="certificates/sql1_udemy_cert.jpg" target="_blank">
+  <img src="certificates/sql1_udemy_cert.jpg" width="200" alt="SQL 1 Certificate"/>
+</a>
+<a href="certificates/sql2_udemy_cert.jpg" target="_blank">
+  <img src="certificates/sql2_udemy_cert.jpg" width="200" alt="SQL 2 Certificate"/>
+</a>
+<a href="certificates/sql3_udemy_cert.jpg" target="_blank">
+  <img src="certificates/sql3_udemy_cert.jpg" width="200" alt="SQL 3 Certificate"/>
+</a>
+
+<br/>
+
+<!-- Row 6 -->
+<a href="certificates/tata_forage_cert.jpg" target="_blank">
+  <img src="certificates/tata_forage_cert.jpg" width="200" alt="TATA Forage Certificate"/>
+</a>
+
+</div>
 
 
 
