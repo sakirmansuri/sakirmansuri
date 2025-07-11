@@ -28,36 +28,46 @@ I'm Sakir Mansuri, a **Data Enthusiast** with a Master's degree in Applied Mathe
 <div align="center">
 
 <!-- Row 1 -->
-<a href="certificates/cwb_forage_cert.jpg" target="_blank">
-  <img src="certificates/cwb_forage_cert.jpg" width="200" alt="CWB Forage Certificate"/>
+<a href="certificates/finishing_school_cert_page1.jpg" target="_blank">
+  <img src="certificates/finishing_school_cert_page1.jpg" width="200" alt="Finishing School Certificate"/>
 </a>
-<a href="certificates/delloite_forage_cert.jpg" target="_blank">
-  <img src="certificates/delloite_forage_cert.jpg" width="200" alt="Deloitte Forage Certificate"/>
+<a href="certificates/jot_cert_page1.jpg" target="_blank">
+  <img src="certificates/jot_cert_page1.jpg" width="200" alt="JOT Certificate"/>
 </a>
+<a href="certificates/science_camp1_cert_page1.jpg" target="_blank">
+  <img src="certificates/science_camp1_cert_page1.jpg" width="200" alt="Science Camp 1 Certificate"/>
+</a>
+<a href="certificates/science_camp2_cert_page1.jpg" target="_blank">
+  <img src="certificates/science_camp2_cert_page1.jpg" width="200" alt="Science Camp 2 Certificate"/>
+</a>
+
 
 
 <br/>
 
 <!-- Row 2 -->
+<a href="certificates/delloite_forage_cert.jpg" target="_blank">
+  <img src="certificates/delloite_forage_cert.jpg" width="200" alt="Deloitte Forage Certificate"/>
+</a>
+<a href="certificates/cwb_forage_cert.jpg" target="_blank">
+  <img src="certificates/cwb_forage_cert.jpg" width="200" alt="CWB Forage Certificate"/>
+</a>
 <a href="certificates/excel1_udemy_cert.jpg" target="_blank">
   <img src="certificates/excel1_udemy_cert.jpg" width="200" alt="Excel 1 Certificate"/>
 </a>
 <a href="certificates/excel2_udemy_cert.jpg" target="_blank">
   <img src="certificates/excel2_udemy_cert.jpg" width="200" alt="Excel 2 Certificate"/>
 </a>
-<a href="certificates/excel3_udemy_cert.jpg" target="_blank">
-  <img src="certificates/excel3_udemy_cert.jpg" width="200" alt="Excel 3 Certificate"/>
-</a>
-<a href="certificates/finishing_school_cert_page1.jpg" target="_blank">
-  <img src="certificates/finishing_school_cert_page1.jpg" width="200" alt="Finishing School Certificate"/>
-</a>
+
 
 <br/>
 
 <!-- Row 3 -->
-<a href="certificates/jot_cert_page1.jpg" target="_blank">
-  <img src="certificates/jot_cert_page1.jpg" width="200" alt="JOT Certificate"/>
+<a href="certificates/excel3_udemy_cert.jpg" target="_blank">
+  <img src="certificates/excel3_udemy_cert.jpg" width="200" alt="Excel 3 Certificate"/>
 </a>
+
+
 <a href="certificates/mysql_udemy_cert.jpg" target="_blank">
   <img src="certificates/mysql_udemy_cert.jpg" width="200" alt="MySQL Certificate"/>
 </a>
@@ -77,12 +87,7 @@ I'm Sakir Mansuri, a **Data Enthusiast** with a Master's degree in Applied Mathe
 <a href="certificates/quantinm_forage_cert.jpg" target="_blank">
   <img src="certificates/quantinm_forage_cert.jpg" width="200" alt="Quantium Forage Certificate"/>
 </a>
-<a href="certificates/science_camp1_cert_page1.jpg" target="_blank">
-  <img src="certificates/science_camp1_cert_page1.jpg" width="200" alt="Science Camp 1 Certificate"/>
-</a>
-<a href="certificates/science_camp2_cert_page1.jpg" target="_blank">
-  <img src="certificates/science_camp2_cert_page1.jpg" width="200" alt="Science Camp 2 Certificate"/>
-</a>
+
 
 <br/>
 
@@ -101,6 +106,9 @@ I'm Sakir Mansuri, a **Data Enthusiast** with a Master's degree in Applied Mathe
 </a>
 
 <br/>
+<a href="certificates/tata_forage_cert.jpg" target="_blank">
+  <img src="certificates/tata_forage_cert.jpg" width="200" alt="TATA Forage Certificate"/>
+</a>
 <a href="certificates/dissertation_cert1_page1.jpg" target="_blank">
   <img src="certificates/dissertation_cert1_page1.jpg" width="200" alt="Dissertation Certificate 1"/>
 </a>
@@ -109,9 +117,7 @@ I'm Sakir Mansuri, a **Data Enthusiast** with a Master's degree in Applied Mathe
 </a>
 
 <!-- Row 6 -->
-<a href="certificates/tata_forage_cert.jpg" target="_blank">
-  <img src="certificates/tata_forage_cert.jpg" width="200" alt="TATA Forage Certificate"/>
-</a>
+
 
 </div>
 
