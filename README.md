@@ -63,21 +63,12 @@ I'm Sakir Mansuri, a **Data Enthusiast** with a Master's degree in Applied Mathe
 <br/>
 
 <!-- Row 3 -->
-<a href="certificates/excel3_udemy_cert.jpg" target="_blank">
-  <img src="certificates/excel3_udemy_cert.jpg" width="200" alt="Excel 3 Certificate"/>
+<a href="certificates/dissertation_cert1_page1.jpg" target="_blank">
+  <img src="certificates/dissertation_cert1_page1.jpg" width="200" alt="Dissertation Certificate 1"/>
 </a>
-
-
-<a href="certificates/mysql_udemy_cert.jpg" target="_blank">
-  <img src="certificates/mysql_udemy_cert.jpg" width="200" alt="MySQL Certificate"/>
+<a href="certificates/dissertation_cert2_page1.jpg" target="_blank">
+  <img src="certificates/dissertation_cert2_page1.jpg" width="200" alt="Dissertation Certificate 2"/>
 </a>
-<a href="certificates/powerpoint_udemy_cert.jpg" target="_blank">
-  <img src="certificates/powerpoint_udemy_cert.jpg" width="200" alt="PowerPoint Certificate"/>
-</a>
-<a href="certificates/python1_gfg_cert.jpg" target="_blank">
-  <img src="certificates/python1_gfg_cert.jpg" width="200" alt="Python GFG 1 Certificate"/>
-</a>
-
 <br/>
 
 <!-- Row 4 -->
@@ -87,9 +78,19 @@ I'm Sakir Mansuri, a **Data Enthusiast** with a Master's degree in Applied Mathe
 <a href="certificates/quantinm_forage_cert.jpg" target="_blank">
   <img src="certificates/quantinm_forage_cert.jpg" width="200" alt="Quantium Forage Certificate"/>
 </a>
+<a href="certificates/excel3_udemy_cert.jpg" target="_blank">
+  <img src="certificates/excel3_udemy_cert.jpg" width="200" alt="Excel 3 Certificate"/>
+</a>
+
+<a href="certificates/mysql_udemy_cert.jpg" target="_blank">
+  <img src="certificates/mysql_udemy_cert.jpg" width="200" alt="MySQL Certificate"/>
+</a>
+
 
 
 <br/>
+
+
 
 <!-- Row 5 -->
 <a href="certificates/softskills_gfg_cert.jpg" target="_blank">
@@ -109,11 +110,11 @@ I'm Sakir Mansuri, a **Data Enthusiast** with a Master's degree in Applied Mathe
 <a href="certificates/tata_forage_cert.jpg" target="_blank">
   <img src="certificates/tata_forage_cert.jpg" width="200" alt="TATA Forage Certificate"/>
 </a>
-<a href="certificates/dissertation_cert1_page1.jpg" target="_blank">
-  <img src="certificates/dissertation_cert1_page1.jpg" width="200" alt="Dissertation Certificate 1"/>
+<a href="certificates/powerpoint_udemy_cert.jpg" target="_blank">
+  <img src="certificates/powerpoint_udemy_cert.jpg" width="200" alt="PowerPoint Certificate"/>
 </a>
-<a href="certificates/dissertation_cert2_page1.jpg" target="_blank">
-  <img src="certificates/dissertation_cert2_page1.jpg" width="200" alt="Dissertation Certificate 2"/>
+<a href="certificates/python1_gfg_cert.jpg" target="_blank">
+  <img src="certificates/python1_gfg_cert.jpg" width="200" alt="Python GFG 1 Certificate"/>
 </a>
 
 <!-- Row 6 -->
