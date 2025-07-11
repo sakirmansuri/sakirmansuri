@@ -34,12 +34,7 @@ I'm Sakir Mansuri, a **Data Enthusiast** with a Master's degree in Applied Mathe
 <a href="certificates/delloite_forage_cert.jpg" target="_blank">
   <img src="certificates/delloite_forage_cert.jpg" width="200" alt="Deloitte Forage Certificate"/>
 </a>
-<a href="certificates/dissertation_cert1_page1.jpg" target="_blank">
-  <img src="certificates/dissertation_cert1_page1.jpg" width="200" alt="Dissertation Certificate 1"/>
-</a>
-<a href="certificates/dissertation_cert2_page1.jpg" target="_blank">
-  <img src="certificates/dissertation_cert2_page1.jpg" width="200" alt="Dissertation Certificate 2"/>
-</a>
+
 
 <br/>
 
@@ -106,6 +101,12 @@ I'm Sakir Mansuri, a **Data Enthusiast** with a Master's degree in Applied Mathe
 </a>
 
 <br/>
+<a href="certificates/dissertation_cert1_page1.jpg" target="_blank">
+  <img src="certificates/dissertation_cert1_page1.jpg" width="200" alt="Dissertation Certificate 1"/>
+</a>
+<a href="certificates/dissertation_cert2_page1.jpg" target="_blank">
+  <img src="certificates/dissertation_cert2_page1.jpg" width="200" alt="Dissertation Certificate 2"/>
+</a>
 
 <!-- Row 6 -->
 <a href="certificates/tata_forage_cert.jpg" target="_blank">
