@@ -21,9 +21,9 @@ I'm Sakir Mansuri, a **Data Enthusiast** with a Master's degree in Applied Mathe
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sakir.mansuri2103@gmail.com)  
 
 *"From Theory to Data-Driven Reality"*  
-📜 My Certificate
 
-### 📜 Certificates
+
+### 📜 My Certificates
 
 <div align="center">
 
