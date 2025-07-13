@@ -1,7 +1,7 @@
 ## Hi there 👋 
 I'm Sakir Mansuri, a **Data Enthusiast** with a Master's degree in Applied Mathematics.  
 
-🔹 **Automating data workflows** | 🔹 **Transforming raw data into insights**  
+🔹 **Automating data workflows** | 🔹 **Transforming raw data into insights**  | 🔹 **Creating Machine Learning Models**  
 
 
 ### 🛠️ Tech Stack 
