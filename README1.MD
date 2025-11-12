@@ -1,5 +1,5 @@
 ## 👋 Hi, I'm Sakir Mansuri  
-** Data Analysis / Data Science & AI Trainer | Applied Mathematics PostGrad**
+**Data Analysis / Data Science & AI Trainer | Applied Mathematics PostGrad**
 
 🎓 Master's in *Applied Mathematics*  
 💡 Passionate about *transforming learners into data professionals*  
