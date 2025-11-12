@@ -1,9 +1,9 @@
 ## 👋 Hi, I'm Sakir Mansuri  
-**Data Science & AI Trainer | Data Analyst | Applied Mathematics Expert**
+** Data Analysis / Data Science & AI Trainer | Applied Mathematics PostGrad**
 
 🎓 Master's in *Applied Mathematics*  
 💡 Passionate about *transforming learners into data professionals*  
-📊 I teach — *Data Science, Machine Learning, SQL, Python, Power BI, and Excel*  
+📊 I teach — *Data Analysis, Data Science, Machine Learning, SQL, Python, Power BI, and Excel*  
 ### 📫 Reach Me  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/sakirmansuri)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sakir.mansuri2103@gmail.com) 
