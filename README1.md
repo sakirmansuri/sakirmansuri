@@ -1,4 +1,4 @@
-<h1 align="center">👋 Hi, I'm Sakir Mansuri</h1>
+<h1 align="center">👋 Hi, I'm Sakir</h1>
 <h3 align="center">Data Analysis • Data Science & AI Trainer | Applied Mathematics Post-Graduate</h3>
 
 
@@ -6,10 +6,15 @@
 
 <h2> About Me</h2>
 🌟 I enjoy teaching and learning.
+
 🎓 Post-Graduate in Applied Mathematics with Specialization in Industrial Mathematics
+
 🧠 Trainer for Data Analysis, Data Science, Machine Learning, AI
+
 📚 I simplify complex topics for students & working professionals
+
 🧩 I create notes, exercises, case studies & projects
+
 🎯 Transform learners into job-ready data professionals
 
 🔗 Connect With Me
