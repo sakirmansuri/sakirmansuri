@@ -45,7 +45,7 @@
 ✔ Interview Preparation & Portfolio Guidance
 
 
-### </h2> 📚 Learning Resources & Notes (Soon to be uploaded)  </h2>
+# <h2> 📚 Learning Resources & Notes (Soon to be uploaded)  </h2>
 📘 Explore my **Learning Series** repositories:  
 
 | Topic | Repository | Description |
@@ -56,12 +56,12 @@
 | 🤖 Machine Learning Essentials | [ML_Fundamentals](https://github.com/sakirmansuri/ML_Fundamentals) | Algorithms, Model Evaluation, Projects |
 | 📊 Excel & Power BI | [Excel_PowerBI_Practice](https://github.com/sakirmansuri/Excel_PowerBI_Practice) | Data Cleaning, Dashboards, Insights |
 
-> 💬 All notes are designed for learners who want **clarity + hands-on practice**.
+> 💬 All notes are designed for learners who want **clarity + practical learning**.
 
 *"From Theory to Data-Driven Reality"*  
 
 ⭐ **Follow for free notes, case studies & data projects**
-⭐ **Notes designed for clarity & practical learning.**
+
 
 ### <h2> 🛠️ Tech Stack</h2>
 <p align="left"> <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white"/> <img src="https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=000"/> <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white"/> <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/> <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/> <img src="https://img.shields.io/badge/Scikit%20Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/> <img src="https://img.shields.io/badge/Matplotlib-000000?style=for-the-badge&logo=plotly&logoColor=white"/> </p>
